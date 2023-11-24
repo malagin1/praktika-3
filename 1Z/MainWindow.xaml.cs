@@ -42,5 +42,6 @@ namespace _1Z
                 Text2.Text += "Нет\n";
 
             }
-        }            }
+        }
+        }            
 }
